@@ -1,0 +1,80 @@
+@charset "utf-8";
+/*
+【参照URL：https://shu-naka-blog.com/css/parallax_css/】
+
+<!--固定背景01-->
+<div class="cd-fixed-bg cd-bg-1">固定背景01</div>
+
+<!--コンテンツ-->
+<div class="area">
+  <p>【CSS】でスクロール時に背景画像が切り替わるパララックス</p>
+  <h2>SHU BLOG</h2>
+</div>
+
+<!--固定背景01-->
+<div class="cd-fixed-bg cd-bg-1">固定背景01</div>
+
+*/
+/*画面全体の設定*/
+/* body,
+html {
+  height: 100%;
+  margin: 0 auto;
+} */
+
+/*--コンテンツ設定--*/
+.area {
+	background-color: #ffffff;
+	overflow: hidden;
+	width: 100%;
+	padding: 5% 0;
+}
+
+/*--固定背景の設定--*/
+.cd-fixed-bg {
+	position: relative;
+	min-height: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+	z-index: 2;
+}
+
+/* 画面ずれ修正 */
+.cd-fixed-bg img {
+	width: 100%;/* ←画面ずれ修正 */
+}
+
+/*--固定背景01--*/
+.cd-fixed-bg.cd-bg-1  {
+  /* background-image: url('画像パス'); */
+  background-image: url('../images/bg_01.png');
+}
+
+/*--固定背景02--*/
+.cd-fixed-bg.cd-bg-2  {
+  /* background-image: url('画像パス'); */
+	background-image: url('../images/AdobeStock_308685971.png');
+}
+
+/*--固定背景03--*/
+.cd-fixed-bg.cd-bg-3  {
+	/* background-image: url('画像パス'); */
+	background-image: url('../images/pixabay_bokeh-1673016_1920.png');
+}
+
+/*--固定背景04--*/
+/* .cd-fixed-bg.cd-bg-4  {
+  background-image: url('画像パス');
+} */
+
+/* ===================================
+				CSS スマートフォンに対応
+=================================== */
+@media screen and (max-width: 736px) {
+	.cd-fixed-bg {
+		background-size: cover;
+		background-attachment: scroll;
+	}
+}
