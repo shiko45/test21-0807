@@ -1,0 +1,1646 @@
+@charset "utf-8";
+/* 
+v(^^)v━━━━━━━━━━━━━━━━━━━v(^^)v
+
+↓テキストスタイル
+
+v(^^)v━━━━━━━━━━━━━━━━━━━v(^^)v  
+*/
+.size09-black {
+	font-size: 9px;
+}
+.size10-black {
+	font-size: 10px;
+}
+.size11-black {
+	font-size: 11px;
+}
+.size12-black {
+	font-size: 12px;
+}
+.size13-black {
+	font-size: 13px;
+}
+.size14-black {
+	font-size: 14px;
+}
+.size15-black {
+	font-size: 15px;
+}
+.size16-black {
+	font-size: 16px;
+}
+.size18-black {
+	font-size: 18px;
+}
+.size21-black {
+	font-size: 21px;
+}
+.size24-black {
+	font-size: 24px;
+}
+.size28-black {
+	font-size: 28px;
+}
+.size32-black {
+	font-size: 32px;
+}
+.size09-black-marker {
+	font-size: 9px;
+	background-color: #FBED73;
+}
+.size10-black-marker {
+	font-size: 10px;
+	background-color: #FBED73;	
+}
+.size11-black-marker {
+	font-size: 11px;
+	background-color: #FBED73;
+}
+.size12-black-marker {
+	font-size: 12px;
+	background-color: #FBED73;
+}
+.size13-black-marker {
+	font-size: 13px;
+	background-color: #FBED73;
+}
+.size14-black-marker {
+	font-size: 14px;
+	background-color: #FBED73;
+}
+.size15-black-marker {
+	font-size: 15px;
+	background-color: #FBED73;
+}
+.size16-black-marker {
+	font-size: 16px;
+	background-color: #FBED73;
+}
+.size18-black-marker {
+	font-size: 18px;
+	background-color: #FBED73;
+}
+.size21-black-marker {
+	font-size: 21px;
+	background-color: #FBED73;
+}
+.size24-black-marker {
+	font-size: 24px;
+	background-color: #FBED73;
+}
+.size28-black-marker {
+	font-size: 28px;
+	background-color: #FBED73;
+}
+.size32-black-marker {
+	font-size: 32px;
+	background-color: #FBED73;
+}
+.size09-black-marker-bold {
+	font-size: 9px;
+	background-color: #FBED73;
+	font-weight: bold;
+}
+.size10-black-marker-bold {
+	font-size: 10px;
+	background-color: #FBED73;
+	font-weight: bold;	
+}
+.size11-black-marker-bold {
+	font-size: 11px;
+	background-color: #FBED73;
+	font-weight: bold;
+}
+.size12-black-marker-bold {
+	font-size: 12px;
+	background-color: #FBED73;
+	font-weight: bold;
+}
+.size13-black-marker-bold {
+	font-size: 13px;
+	background-color: #FBED73;
+	font-weight: bold;
+}
+.size14-black-marker-bold {
+	font-size: 14px;
+	background-color: #FBED73;
+	font-weight: bold;
+}
+.size15-black-marker-bold {
+	font-size: 15px;
+	background-color: #FBED73;
+	font-weight: bold;
+}
+.size16-black-marker-bold {
+	font-size: 16px;
+	background-color: #FBED73;
+	font-weight: bold;
+}
+.size18-black-marker-bold {
+	font-size: 18px;
+	background-color: #FBED73;
+	font-weight: bold;
+}
+.size21-black-marker-bold {
+	font-size: 21px;
+	background-color: #FBED73;
+	font-weight: bold;
+}
+.size24-black-marker-bold {
+	font-size: 24px;
+	background-color: #FBED73;
+	font-weight: bold;
+}
+.size28-black-marker-bold {
+	font-size: 28px;
+	background-color: #FBED73;
+	font-weight: bold;
+}
+.size32-black-marker-bold {
+	font-size: 32px;
+	background-color: #FBED73;
+	font-weight: bold;
+}
+.size09-black-under {
+	font-size: 9px;
+	text-decoration:underline;
+}
+.size10-black-under {
+	font-size: 10px;
+	text-decoration:underline;
+}
+.size11-black-under {
+	font-size: 11px;
+	text-decoration:underline;
+}
+.size12-black-under {
+	font-size: 12px;
+	text-decoration:underline;
+}
+.size13-black-under {
+	font-size: 13px;
+	text-decoration:underline;
+}
+.size14-black-under {
+	font-size: 14px;
+	text-decoration:underline;
+}
+.size15-black-under {
+	font-size: 15px;
+	text-decoration:underline;
+}
+.size16-black-under {
+	font-size: 16px;
+	text-decoration:underline;
+}
+.size18-black-under {
+	font-size: 18px;
+	text-decoration:underline;
+}
+.size21-black-under {
+	font-size: 21px;
+	text-decoration:underline;
+}
+.size24-black-under {
+	font-size: 24px;
+	text-decoration:underline;
+}
+.size28-black-under {
+	font-size: 28px;
+	text-decoration:underline;
+}
+.size32-black-under {
+	font-size: 32px;
+	text-decoration:underline;
+}
+.size09-black-bold {
+	font-size: 9px;
+	font-weight: bold;
+}
+.size10-black-bold {
+	font-size: 10px;
+	font-weight: bold;
+}
+.size11-black-bold {
+	font-size: 11px;
+	font-weight: bold;
+}
+.size12-black-bold {
+	font-size: 12px;
+	font-weight: bold;
+}
+.size13-black-bold {
+	font-size: 13px;
+	font-weight: bold;
+}
+.size14-black-bold {
+	font-size: 14px;
+	font-weight: bold;
+}
+.size15-black-bold {
+	font-size: 15px;
+	font-weight: bold;
+}
+.size16-black-bold {
+	font-size: 16px;
+	font-weight: bold;
+}
+.size18-black-bold {
+	font-size: 18px;
+	font-weight: bold;
+}
+.size21-black-bold {
+	font-size: 21px;
+	line-height: 150%;
+	font-weight: bold;
+}
+.size24-black-bold {
+	font-size: 24px;
+	font-weight: bold;
+	line-height: 150%;
+}
+.size28-black-bold {
+	font-size: 28px;
+	line-height: 150%;
+	font-weight: bold;
+}
+.size32-black-bold {
+	font-size: 32px;
+	font-weight: bold;
+}
+.size09-black-under-bold {
+	font-size: 9px;
+	text-decoration:underline;
+	font-weight: bold;
+}
+.size10-black-under-bold {
+	font-size: 10px;
+	text-decoration:underline;
+	font-weight: bold;
+}
+.size11-black-under-bold {
+	font-size: 11px;
+	text-decoration:underline;
+	font-weight: bold;
+}
+.size12-black-under-bold {
+	font-size: 12px;
+	text-decoration:underline;
+	font-weight: bold;
+}
+.size13-black-under-bold {
+	font-size: 13px;
+	text-decoration:underline;
+	font-weight: bold;
+}
+.size14-black-under-bold {
+	font-size: 14px;
+	text-decoration:underline;
+	font-weight: bold;
+}
+.size15-black-under-bold {
+	font-size: 15px;
+	text-decoration:underline;
+	font-weight: bold;
+}
+.size16-black-under-bold {
+	font-size: 16px;
+	text-decoration:underline;
+	font-weight: bold;
+	line-height: 200%;
+}
+.size18-black-under-bold {
+	font-size: 18px;
+	line-height: 150%;
+	text-decoration:underline;
+	font-weight: bold;
+}
+.size21-black-under-bold {
+	font-size: 21px;
+	text-decoration:underline;
+	font-weight: bold;
+}
+.size24-black-under-bold {
+	font-size: 24px;
+	line-height: 150%;
+	text-decoration:underline;
+	font-weight: bold;
+}
+.size28-black-under-bold {
+	font-size: 28px;
+	text-decoration:underline;
+	font-weight: bold;
+}
+.size32-black-under-bold {
+	font-size: 32px;
+	text-decoration:underline;
+	font-weight: bold;
+}
+.size09-red01 {
+	font-size: 9px;
+	color: #CC0000;
+}
+.size10-red01 {
+	font-size: 10px;
+	color: #FF0000;	
+}
+.size11-red01 {
+	font-size: 11px;
+	color: #FF0000;	
+}
+.size12-red01 {
+	font-size: 12px;
+	color: #FF0000;	
+}
+.size13-red01 {
+	font-size: 13px;
+	color: #FF0000;	
+}
+.size14-red01 {
+	font-size: 14px;
+	color: #FF0000;	
+}
+.size15-red01 {
+	font-size: 15px;
+	color: #FF0000;	
+}
+.size16-red01 {
+	font-size: 16px;
+	color: #FF0000;	
+}
+.size18-red01 {
+	font-size: 18px;
+	color: #FF0000;	
+}
+.size21-red01 {
+	font-size: 21px;
+	color: #FF0000;	
+}
+.size24-red01 {
+	font-size: 24px;
+	color: #FF0000;
+}
+.size28-red01 {
+	font-size: 28px;
+	color: #FF0000;
+}
+.size32-red01 {
+	font-size: 32px;
+	color: #FF0000;
+}
+.size09-red01-marker {
+	font-size: 9px;
+	color: #FF0000;	
+	background-color: #FBED73;
+}
+.size10-red01-marker {
+	font-size: 10px;
+	color: #FF0000;	
+	background-color: #FBED73;
+}
+.size11-red01-marker {
+	font-size: 11px;
+	color: #FF0000;	
+	background-color: #FBED73;
+}
+.size12-red01-marker {
+	font-size: 12px;
+	color: #FF0000;
+	background-color: #FBED73;	
+}
+.size13-red01-marker {
+	font-size: 13px;
+	color: #FF0000;
+	background-color: #FBED73;	
+}
+.size14-red01-marker {
+	font-size: 14px;
+	color: #FF0000;
+	background-color: #FBED73;	
+}
+.size15-red01-marker {
+	font-size: 15px;
+	color: #FF0000;	
+	background-color: #FBED73;
+}
+.size16-red01-marker {
+	font-size: 16px;
+	color: #FF0000;	
+		line-height: 200%;
+	background-color: #FBED73;
+}
+.size18-red01-marker {
+	font-size: 18px;
+	color: #FF0000;	
+	background-color: #FBED73;
+}
+.size21-red01-marker {
+	font-size: 21px;
+	color: #FF0000;	
+	background-color: #FBED73;
+}
+.size24-red01-marker {
+	font-size: 24px;
+	color: #FF0000;
+	background-color: #FBED73;
+}
+.size28-red01-marker {
+	font-size: 28px;
+	color: #FF0000;
+	background-color: #FBED73;
+}
+.size32-red01-marker {
+	font-size: 32px;
+	color: #FF0000;
+	background-color: #FBED73;
+}
+.size09-red01-marker-bold {
+	font-size: 9px;
+	color: #FF0000;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size10-red01-marker-bold {
+	font-size: 10px;
+	color: #FF0000;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size11-red01-marker-bold {
+	font-size: 11px;
+	color: #FF0000;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size12-red01-marker-bold {
+	font-size: 12px;
+	color: #FF0000;
+	background-color: #FBED73;	
+	font-weight:bold;
+}
+.size13-red01-marker-bold {
+	font-size: 13px;
+	color: #FF0000;
+	background-color: #FBED73;	
+	font-weight:bold;
+}
+.size14-red01-marker-bold {
+	font-size: 14px;
+	color: #FF0000;
+	background-color: #FBED73;	
+	font-weight:bold;
+}
+.size15-red01-marker-bold {
+	font-size: 15px;
+	color: #FF0000;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size16-red01-marker-bold {
+	font-size: 16px;
+		line-height: 200%;
+	color: #FF0000;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size18-red01-marker-bold {
+	font-size: 18px;
+	color: #FF0000;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size21-red01-marker-bold {
+	font-size: 21px;
+	color: #FF0000;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size24-red01-marker-bold {
+	font-size: 24px;
+	color: #FF0000;
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size28-red01-marker-bold {
+	font-size: 28px;
+	color: #FF0000;
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size32-red01-marker-bold {
+	font-size: 32px;
+	color: #FF0000;
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size09-red01-bold {
+	font-size: 9px;
+	color: #FF0000;	
+	font-weight:bold;
+}
+.size10-red01-bold {
+	font-size: 10px;
+	color: #FF0000;	
+	font-weight:bold;
+}
+.size11-red01-bold {
+	font-size: 11px;
+	color: #FF0000;	
+	font-weight:bold;
+}
+.size12-red01-bold {
+	font-size: 12px;
+	color: #FF0000;	
+	font-weight:bold;
+}
+.size13-red01-bold {
+	font-size: 13px;
+	color: #FF0000;
+	font-weight:bold;
+}
+.size14-red01-bold {
+	font-size: 14px;
+	color: #FF0000;	
+	font-weight:bold;
+}
+.size15-red01-bold {
+	font-size: 15px;
+	color: #FF0000;	
+	font-weight:bold;
+}
+.size16-red01-bold {
+	font-size: 16px;
+	color: #FF0000;	
+	font-weight:bold;
+}
+.size18-red01-bold {
+	font-size: 18px;
+	color: #FF0000;	
+	font-weight:bold;
+}
+.size21-red01-bold {
+	font-size: 21px;
+	color: #FF0000;	
+	font-weight:bold;
+}
+.size24-red01-bold {
+	font-size: 24px;
+	line-height: 150%;
+	color: #FF0000;
+	font-weight:bold;
+}
+.size28-red01-bold {
+	font-size: 28px;
+	color: #FF0000;
+	font-weight:bold;
+}
+.size32-red01-bold {
+	font-size: 32px;
+	color: #FF0000;
+	font-weight:bold;
+}
+.size09-red01-under {
+	font-size: 9px;
+	color: #FF0000;	
+	text-decoration:underline;
+}
+.size10-red01-under {
+	font-size: 10px;
+	color: #FF0000;	
+	text-decoration:underline;
+}
+.size11-red01-under{
+	font-size: 11px;
+	color: #FF0000;	
+	text-decoration:underline;
+}
+.size12-red01-under {
+	font-size: 12px;
+	color: #FF0000;	
+	text-decoration:underline;
+}
+.size13-red01-under {
+	font-size: 13px;
+	color: #FF0000;
+	text-decoration:underline;
+}
+.size14-red01-under {
+	font-size: 14px;
+	color: #FF0000;	
+	text-decoration:underline;
+}
+.size15-red01-under {
+	font-size: 15px;
+	color: #FF0000;	
+	text-decoration:underline;
+}
+.size16-red01-under {
+	font-size: 16px;
+	color: #FF0000;	
+	text-decoration:underline;
+}
+.size18-red01-under {
+	font-size: 18px;
+	color: #FF0000;	
+	text-decoration:underline;
+}
+.size21-red01-under {
+	font-size: 21px;
+	color: #FF0000;	
+	text-decoration:underline;
+}
+.size24-red01-under {
+	font-size: 24px;
+	color: #FF0000;
+	text-decoration:underline;
+}
+.size28-red01-under {
+	font-size: 28px;
+	color: #FF0000;
+	text-decoration:underline;
+}
+.size32-red01-under {
+	font-size: 32px;
+	color: #FF0000;
+	text-decoration:underline;
+}
+.size09-red01-under-bold {
+	font-size: 9px;
+	color: #FF0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size10-red01-under-bold {
+	font-size: 10px;
+	color: #FF0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size11-red01-under-bold {
+	font-size: 11px;
+	color: #FF0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size12-red01-under-bold {
+	font-size: 12px;
+	color: #FF0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size13-red01-under-bold {
+	font-size: 13px;
+	color: #FF0000;
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size14-red01-under-bold {
+	font-size: 14px;
+	color: #FF0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size15-red01-under-bold {
+	font-size: 15px;
+	color: #FF0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size16-red01-under-bold {
+	font-size: 16px;
+	color: #FF0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size18-red01-under-bold {
+	font-size: 18px;
+	color: #FF0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size21-red01-under-bold {
+	font-size: 21px;
+	color: #FF0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size24-red01-under-bold {
+	font-size: 24px;
+	color: #FF0000;
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size28-red01-under-bold {
+	font-size: 28px;
+	color: #FF0000;
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size32-red01-under-bold {
+	font-size: 32px;
+	color: #FF0000;
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size09-red02 {
+	font-size: 9px;
+	color: #BD0000;	
+}
+.size10-red02 {
+	font-size: 10px;
+	color: #BD0000;	
+}
+.size11-red02 {
+	font-size: 11px;
+	color: #BD0000;	
+}
+.size12-red02 {
+	font-size: 12px;
+	color: #BD0000;	
+}
+.size13-red02 {
+	font-size: 13px;
+	color: #BD0000;	
+}
+.size14-red02 {
+	font-size: 14px;
+	color: #BD0000;	
+}
+.size15-red02 {
+	font-size: 15px;
+	color: #BD0000;	
+}
+.size16-red02 {
+	font-size: 16px;
+	color: #BD0000;	
+}
+.size18-red02 {
+	font-size: 18px;
+	color: #BD0000;	
+}
+.size21-red02 {
+	font-size: 21px;
+	color: #BD0000;	
+}
+.size24-red02 {
+	font-size: 24px;
+	color: #BD0000;
+}
+.size28-red02 {
+	font-size: 28px;
+	color: #BD0000;
+}
+.size32-red02 {
+	font-size: 32px;
+	color: #BD0000;
+}
+.size09-red02-marker {
+	font-size: 9px;
+	color: #BD0000;	
+	background-color: #FBED73;
+}
+.size10-red02-marker {
+	font-size: 10px;
+	color: #BD0000;	
+	background-color: #FBED73;
+}
+.size11-red02-marker {
+	font-size: 11px;
+	color: #BD0000;	
+	background-color: #FBED73;
+}
+.size12-red02-marker {
+	font-size: 12px;
+	color: #BD0000;
+	background-color: #FBED73;	
+}
+.size13-red02-marker {
+	font-size: 13px;
+	color: #BD0000;
+	background-color: #FBED73;	
+}
+.size14-red02-marker {
+	font-size: 14px;
+	color: #BD0000;
+	background-color: #FBED73;	
+}
+.size15-red02-marker {
+	font-size: 15px;
+	color: #BD0000;	
+	background-color: #FBED73;
+}
+.size16-red02-marker {
+	font-size: 16px;
+	color: #BD0000;	
+	background-color: #FBED73;
+}
+.size18-red02-marker {
+	font-size: 18px;
+	color: #BD0000;	
+	background-color: #FBED73;
+}
+.size21-red02-marker {
+	font-size: 21px;
+	color: #BD0000;	
+	background-color: #FBED73;
+}
+.size24-red02-marker {
+	font-size: 24px;
+	color: #BD0000;
+	background-color: #FBED73;
+}
+.size28-red02-marker {
+	font-size: 28px;
+	color: #BD0000;
+	background-color: #FBED73;
+}
+.size32-red02-marker {
+	font-size: 32px;
+	color: #BD0000;
+	background-color: #FBED73;
+}
+.size09-red02-marker-bold {
+	font-size: 9px;
+	color: #BD0000;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size10-red02-marker-bold {
+	font-size: 10px;
+	color: #BD0000;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size11-red02-marker-bold {
+	font-size: 11px;
+	color: #BD0000;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size12-red02-marker-bold {
+	font-size: 12px;
+	color: #BD0000;
+	background-color: #FBED73;	
+	font-weight:bold;
+}
+.size13-red02-marker-bold {
+	font-size: 13px;
+	color: #BD0000;
+	background-color: #FBED73;	
+	font-weight:bold;
+}
+.size14-red02-marker-bold {
+	font-size: 14px;
+	color: #BD0000;
+	background-color: #FBED73;	
+	font-weight:bold;
+}
+.size15-red02-marker-bold {
+	font-size: 15px;
+	color: #BD0000;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size16-red02-marker-bold {
+	font-size: 16px;
+	color: #BD0000;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size18-red02-marker-bold {
+	font-size: 18px;
+	color: #BD0000;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size21-red02-marker-bold {
+	font-size: 21px;
+	color: #BD0000;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size24-red02-marker-bold {
+	font-size: 24px;
+	color: #BD0000;
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size28-red02-marker-bold {
+	font-size: 28px;
+	color: #BD0000;
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size32-red02-marker-bold {
+	font-size: 32px;
+	color: #BD0000;
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size09-red02-bold {
+	font-size: 9px;
+	color: #BD0000;	
+	font-weight:bold;
+}
+.size10-red02-bold {
+	font-size: 10px;
+	color: #BD0000;	
+	font-weight:bold;
+}
+.size11-red02-bold {
+	font-size: 11px;
+	color: #BD0000;	
+	font-weight:bold;
+}
+.size12-red02-bold {
+	font-size: 12px;
+	color: #BD0000;	
+	font-weight:bold;
+}
+.size13-red02-bold {
+	font-size: 13px;
+	color: #BD0000;
+	font-weight:bold;
+}
+.size14-red02-bold {
+	font-size: 14px;
+	color: #BD0000;	
+	font-weight:bold;
+}
+.size15-red02-bold {
+	font-size: 15px;
+	color: #BD0000;	
+	font-weight:bold;
+}
+.size16-red02-bold {
+	font-size: 16px;
+	color: #BD0000;	
+	font-weight:bold;
+}
+.size18-red02-bold {
+	font-size: 18px;
+	color: #BD0000;	
+	font-weight:bold;
+}
+.size21-red02-bold {
+	font-size: 21px;
+	color: #BD0000;	
+	font-weight:bold;
+}
+.size24-red02-bold {
+	font-size: 24px;
+	color: #BD0000;
+	font-weight:bold;
+}
+.size28-red02-bold {
+	font-size: 28px;
+	color: #BD0000;
+	font-weight:bold;
+}
+.size32-red02-bold {
+	font-size: 32px;
+	color: #BD0000;
+	font-weight:bold;
+}
+.size09-red02-under {
+	font-size: 9px;
+	color: #BD0000;	
+	text-decoration:underline;
+}
+.size10-red02-under {
+	font-size: 10px;
+	color: #BD0000;	
+	text-decoration:underline;
+}
+.size11-red02-under{
+	font-size: 11px;
+	color: #BD0000;	
+	text-decoration:underline;
+}
+.size12-red02-under {
+	font-size: 12px;
+	color: #BD0000;	
+	text-decoration:underline;
+}
+.size13-red02-under {
+	font-size: 13px;
+	color: #BD0000;
+	text-decoration:underline;
+}
+.size14-red02-under {
+	font-size: 14px;
+	color: #BD0000;	
+	text-decoration:underline;
+}
+.size15-red02-under {
+	font-size: 15px;
+	color: #BD0000;	
+	text-decoration:underline;
+}
+.size16-red02-under {
+	font-size: 16px;
+	color: #BD0000;	
+	text-decoration:underline;
+}
+.size18-red02-under {
+	font-size: 18px;
+	color: #BD0000;	
+	text-decoration:underline;
+}
+.size21-red02-under {
+	font-size: 21px;
+	color: #BD0000;	
+	text-decoration:underline;
+}
+.size24-red02-under {
+	font-size: 24px;
+	color: #BD0000;
+	text-decoration:underline;
+}
+.size28-red02-under {
+	font-size: 28px;
+	color: #BD0000;
+	text-decoration:underline;
+}
+.size32-red02-under {
+	font-size: 32px;
+	color: #BD0000;
+	text-decoration:underline;
+}
+.size09-red02-under-bold {
+	font-size: 9px;
+	color: #BD0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size10-red02-under-bold {
+	font-size: 10px;
+	color: #BD0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size11-red02-under-bold {
+	font-size: 11px;
+	color: #BD0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size12-red02-under-bold {
+	font-size: 12px;
+	color: #BD0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size13-red02-under-bold {
+	font-size: 13px;
+	color: #BD0000;
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size14-red02-under-bold {
+	font-size: 14px;
+	color: #BD0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size15-red02-under-bold {
+	font-size: 15px;
+	color: #BD0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size16-red02-under-bold {
+	font-size: 16px;
+	color: #BD0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size18-red02-under-bold {
+	font-size: 18px;
+	color: #BD0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size21-red02-under-bold {
+	font-size: 21px;
+	color: #BD0000;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size24-red02-under-bold {
+	font-size: 24px;
+	color: #BD0000;
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size28-red02-under-bold {
+	font-size: 28px;
+	color: #BD0000;
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size32-red02-under-bold {
+	font-size: 32px;
+	color: #BD0000;
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size09-blue {
+	font-size: 9px;
+	color: #1B4BCD;	
+}
+.size10-blue {
+	font-size: 10px;
+	color: #1B4BCD;	
+}
+.size11-blue {
+	font-size: 11px;
+	color: #1B4BCD;	
+}
+.size12-blue {
+	font-size: 12px;
+	color: #1B4BCD;	
+}
+.size13-blue {
+	font-size: 13px;
+	color: #1B4BCD;	
+}
+.size14-blue {
+	font-size: 14px;
+	color: #1B4BCD;	
+}
+.size15-blue {
+	font-size: 15px;
+	color: #1B4BCD;	
+}
+.size16-blue {
+	font-size: 16px;
+	color: #1B4BCD;	
+}
+.size18-blue {
+	font-size: 18px;
+	color: #1B4BCD;	
+}
+.size21-blue {
+	font-size: 21px;
+	color: #1B4BCD;	
+}
+.size24-blue {
+	font-size: 24px;
+	color: #1B4BCD;
+}
+.size28-blue {
+	font-size: 28px;
+	color: #1B4BCD;
+}
+.size32-blue {
+	font-size: 32px;
+	color: #1B4BCD;
+}
+.size09-blue-marker {
+	font-size: 9px;
+	color: #1B4BCD;	
+	background-color: #FBED73;
+}
+.size10-blue-marker {
+	font-size: 10px;
+	color: #1B4BCD;	
+	background-color: #FBED73;
+}
+.size11-blue-marker {
+	font-size: 11px;
+	color: #1B4BCD;	
+	background-color: #FBED73;
+}
+.size12-blue-marker {
+	font-size: 12px;
+	color: #1B4BCD;
+	background-color: #FBED73;	
+}
+.size13-blue-marker {
+	font-size: 13px;
+	color: #1B4BCD;
+	background-color: #FBED73;	
+}
+.size14-blue-marker {
+	font-size: 14px;
+	color: #1B4BCD;
+	background-color: #FBED73;	
+}
+.size15-blue-marker {
+	font-size: 15px;
+	color: #1B4BCD;	
+	background-color: #FBED73;
+}
+.size16-blue-marker {
+	font-size: 16px;
+	color: #1B4BCD;	
+	background-color: #FBED73;
+}
+.size18-blue-marker {
+	font-size: 18px;
+	color: #1B4BCD;	
+	background-color: #FBED73;
+}
+.size21-blue-marker {
+	font-size: 21px;
+	color: #1B4BCD;	
+	background-color: #FBED73;
+}
+.size24-blue-marker {
+	font-size: 24px;
+	color: #1B4BCD;
+	background-color: #FBED73;
+}
+.size28-blue-marker {
+	font-size: 28px;
+	color: #1B4BCD;
+	background-color: #FBED73;
+}
+.size32-blue-marker {
+	font-size: 32px;
+	color: #1B4BCD;
+	background-color: #FBED73;
+}
+.size09-blue-marker-bold {
+	font-size: 9px;
+	color: #1B4BCD;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size10-blue-marker-bold {
+	font-size: 10px;
+	color: #1B4BCD;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size11-blue-marker-bold {
+	font-size: 11px;
+	color: #1B4BCD;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size12-blue-marker-bold {
+	font-size: 12px;
+	color: #1B4BCD;
+	background-color: #FBED73;	
+	font-weight:bold;
+}
+.size13-blue-marker-bold {
+	font-size: 13px;
+	color: #1B4BCD;
+	background-color: #FBED73;	
+	font-weight:bold;
+}
+.size14-blue-marker-bold {
+	font-size: 14px;
+	color: #1B4BCD;
+	background-color: #FBED73;	
+	font-weight:bold;
+}
+.size15-blue-marker-bold {
+	font-size: 15px;
+	color: #1B4BCD;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size16-blue-marker-bold {
+	font-size: 16px;
+	color: #1B4BCD;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size18-blue-marker-bold {
+	font-size: 18px;
+	color: #1B4BCD;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size21-blue-marker-bold {
+	font-size: 21px;
+	color: #1B4BCD;	
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size24-blue-marker-bold {
+	font-size: 24px;
+	color: #1B4BCD;
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size28-blue-marker-bold {
+	font-size: 28px;
+	color: #1B4BCD;
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size32-blue-marker-bold {
+	font-size: 32px;
+	color: #1B4BCD;
+	background-color: #FBED73;
+	font-weight:bold;
+}
+.size09-blue-bold {
+	font-size: 9px;
+	color: #1B4BCD;	
+	font-weight:bold;
+}
+.size10-blue-bold {
+	font-size: 10px;
+	color: #1B4BCD;	
+	font-weight:bold;
+}
+.size11-blue-bold {
+	font-size: 11px;
+	color: #1B4BCD;	
+	font-weight:bold;
+}
+.size12-blue-bold {
+	font-size: 12px;
+	color: #1B4BCD;	
+	font-weight:bold;
+}
+.size13-blue-bold {
+	font-size: 13px;
+	color: #1B4BCD;
+	font-weight:bold;
+}
+.size14-blue-bold {
+	font-size: 14px;
+	color: #1B4BCD;	
+	font-weight:bold;
+}
+.size15-blue-bold {
+	font-size: 15px;
+	color: #1B4BCD;	
+	font-weight:bold;
+}
+.size16-blue-bold {
+	font-size: 16px;
+	color: #1B4BCD;	
+	font-weight:bold;
+}
+.size18-blue-bold {
+	font-size: 18px;
+	color: #1B4BCD;	
+	font-weight:bold;
+}
+.size21-blue-bold {
+	font-size: 21px;
+	color: #1B4BCD;	
+	font-weight:bold;
+}
+.size24-blue-bold {
+	font-size: 24px;
+	color: #1B4BCD;
+	font-weight:bold;
+}
+.size28-blue-bold {
+	font-size: 28px;
+	color: #1B4BCD;
+	font-weight:bold;
+}
+.size32-blue-bold {
+	font-size: 32px;
+	color: #1B4BCD;
+	font-weight:bold;
+}
+.size09-blue-under {
+	font-size: 9px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+}
+.size10-blue-under {
+	font-size: 10px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+}
+.size11-blue-under{
+	font-size: 11px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+}
+.size12-blue-under {
+	font-size: 12px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+}
+.size13-blue-under {
+	font-size: 13px;
+	color: #1B4BCD;
+	text-decoration:underline;
+}
+.size14-blue-under {
+	font-size: 14px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+}
+.size15-blue-under {
+	font-size: 15px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+}
+.size16-blue-under {
+	font-size: 16px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+}
+.size18-blue-under {
+	font-size: 18px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+}
+.size21-blue-under {
+	font-size: 21px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+}
+.size24-blue-under {
+	font-size: 24px;
+	color: #1B4BCD;
+	text-decoration:underline;
+}
+.size28-blue-under {
+	font-size: 28px;
+	color: #1B4BCD;
+	text-decoration:underline;
+}
+.size32-blue-under {
+	font-size: 32px;
+	color: #1B4BCD;
+	text-decoration:underline;
+}
+.size09-blue-under-bold {
+	font-size: 9px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size10-blue-under-bold {
+	font-size: 10px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size11-blue-under-bold {
+	font-size: 11px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size12-blue-under-bold {
+	font-size: 12px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size13-blue-under-bold {
+	font-size: 13px;
+	color: #1B4BCD;
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size14-blue-under-bold {
+	font-size: 14px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size15-blue-under-bold {
+	font-size: 15px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size16-blue-under-bold {
+	font-size: 16px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size18-blue-under-bold {
+	font-size: 18px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size21-blue-under-bold {
+	font-size: 21px;
+	color: #1B4BCD;	
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size24-blue-under-bold {
+	font-size: 24px;
+	color: #1B4BCD;
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size28-blue-under-bold {
+	font-size: 28px;
+	color: #1B4BCD;
+	text-decoration:underline;
+	font-weight:bold;
+}
+.size32-blue-under-bold {
+	font-size: 32px;
+	color: #1B4BCD;
+	text-decoration:underline;
+	font-weight:bold;
+}
+.sp-text01 {
+	background-color: #FDACF1;
+	font-weight: bold;
+}
+.sp-text02 {
+	color: #BD0000;
+	background-color: #FDDFFC;
+	font-weight: bold;
+}
+.sp-text03 {
+	color: #FFFFFF;
+	background-color: #D2231A;
+	font-weight: bold;
+}
+.sp-text003 {
+	font-size: 20px;
+	color: #FFFFFF;
+	background-color: #D2231A;
+	font-weight: bold;
+	line-height: 180%;
+}
+.sp-text004 {
+	font-size: 34px;
+	color: #FFFFFF;
+	background-color: #D2231A;
+	font-weight: bold;
+	line-height: 180%;
+}
+.sp-text04 {
+	color: #FFFFFF;
+	background-color: #F731AC;
+	font-weight: bold;
+}
+.sp-text05 {
+	font-weight: bold;
+	color: #FBED73;
+	background-color: #333333;
+}
+.sp-text06 {
+	background-color: #1B4BCD;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.sp-text07 {
+	color: #1B4BCD;
+	background-color: #B6E3FE;
+	font-weight: bold;
+}
+.sp-text08 {
+	color: #D2231A;
+	background-color: #FDE3C1;
+	font-weight: bold;
+}
+.sp-text09 {
+	color: #FFFFFF;
+	background-color: #FB440F;
+	font-weight: bold;
+}
+.sp-text10 {
+	font-weight: bold;
+	color: #FBED73;
+	background-color: #FB440F;
+}
+.sp-text11 {
+	color: #254723;
+	background-color: #E8F9BB;
+	font-weight: bold;
+}
+.sp-text12 {
+	color: #FFFFFF;
+	background-color: #254723;
+	font-weight: bold;
+}
+.sp-text13 {
+	color: #FBED73;
+	background-color: #254723;
+	font-weight: bold;
+}
+.sp-text14 {
+	font-weight: bold;
+	color: #F731AC;
+}
+.sp-text15 {
+	font-weight: bold;
+	color: #F731AC;
+	text-decoration:underline;
+}
+.style2 {color: #F731AC}
+.style3 {
+	color: #ffffff
+}
+.style4 {color: #cb1217}
+.style5 {color: #ffbabc}
+.style7 {color: #E6CB11}
+/*Copyright (C) 2011 infosmile. All Rights Reserved.*/
