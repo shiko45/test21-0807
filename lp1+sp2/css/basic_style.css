@@ -115,7 +115,8 @@ body {
 #head10 { background: url("../images/header_10.png") no-repeat top center; height: 503px; }
 #head11 { background: url("../images/header_11.png") no-repeat top center; height: 513px; }
 
-#head891011bg { background: url("../images/bg/AdobeStock_308685971.png") no-repeat top center; height: 2100px; background-attachment: fixed;}
+/* #head891011bg { background: url("../images/bg/AdobeStock_308685971.png") no-repeat top center; height: 2100px; background-attachment: fixed;} */
+#head891011bg { background: url("../images/bg/AdobeStock_308685971-1.png") no-repeat top center; height: 2100px; background-attachment: fixed;}
 
 #head12 { background: url("../images/header_12.png") no-repeat top center; height: 264px; }
 #head13 { background: url("../images/header_13.png") no-repeat top center; height: 709px; }
