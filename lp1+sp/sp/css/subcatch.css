@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+
+.sch{
+	width:605px;
+	margin:0px auto 30px;
+}
+.sch_icon{
+	position:absolute;
+	left: 7px;
+	top: -5px;
+}
+.sch_top{
+	height:16px;
+	margin:0px;
+	padding:0px;
+}
+.sch_btm{
+	height:16px;
+	margin:0px;
+	padding:0px;
+}
+.sch_body{
+	margin:0px;
+	padding:0px 10px 0px 45px;
+	position:relative;
+	line-height:1.4em;
+}
+
+
+.sch03{
+	width:605px;
+	margin:0px auto 0px;
+}

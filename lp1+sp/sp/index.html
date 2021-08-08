@@ -1,0 +1,140 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title> </title>
+		<meta content="text/html; charset=utf-8" http-equiv=Content-Type>
+		<link rel=stylesheet type=text/css href="css/basic_style.css">
+		<link rel=stylesheet type=text/css href="css/anime.css">
+		<link rel="stylesheet" type="text/css" href="js/aos/aos.css">
+		<meta name=robots content=noindex,nofollow>
+	</head>
+	<body id="main">
+		<div id="head1"></div>
+		<div id="head2">
+			<center>
+				<a href="https://google.com" target=“_blank”>
+					<img class="wow pulse animated" border=0 src="images/bt1.png" alt="お申し込みはこちら!"
+					onMouseOver="this.src='images/bt2.png'" onMouseOut="this.src='images/bt1.png'"
+					style="
+					visibility: visible; animation-duration: 1s; animation-iteration-count: 1000; animation-name: pulse;
+					margin-top: 440px; margin-right: 0px; margin-left: -270px; margin-bottom: 0px; ">
+				</a>
+			</center>
+		</div>
+		<div id="head3"></div>
+		<div id="head4"></div>
+		<!-- コンテンツ1  (初めまして) -->
+		<div class="bg-1">
+			<div id="head5"></div>
+			<div id="head6"></div>
+			<div id="head7"></div>
+			<div id="head8"></div>
+		</div>
+		<!-- ▲ コンテンツ1 -->
+		<!-- コンテンツ2  (ただ、僕も...でした)) -->
+		<div class="bg-2">
+			<div id="head9"></div>
+			<div id="head10"></div>
+			<div id="head11"></div>
+			<div id="head12"></div>
+			<div id="head13"></div>
+			<div id="head14"></div>
+			<div id="head15"></div>
+		</div>
+		<!-- ▲ コンテンツ2 -->
+		<!-- コンテンツ3  (そんな僕がなぜ...) -->
+		<div class="bg-3">
+			<div id="head16"></div>
+			<div id="head17"></div>
+			<div id="head18"></div>
+			<div id="head19"></div>
+			<div id="head20"></div>
+		</div>
+		<!-- ▲ コンテンツ3 -->
+		<!-- コンテンツ4 (書籍にまとめました) -->
+		<div id="head21"></div>
+		<div id="head22"></div>
+		<div id="head23"></div>
+		<!-- ▲ コンテンツ4 -->
+		<div id="head24">
+			<center>
+				<a href="https://google.com" target=“_blank”>
+					<img class="wow pulse animated" border=0 src="images/bt1.png" alt="お申し込みはこちら!"
+					onMouseOver="this.src='images/bt2.png'" onMouseOut="this.src='images/bt1.png'"
+					style="
+					visibility: visible; animation-duration: 1s; animation-iteration-count: 1000; animation-name: pulse;
+					margin-top: 320px; margin-right: 0px; margin-left: -270px; margin-bottom: 0px; ">
+				</a>
+			</center>
+		</div>
+		<!-- ▲ head背景ここまで ▲ -->
+		<div id="wrap">
+			<div id="container">
+				<div id="text">
+				</div>
+			</div>
+		</div>
+		<div id="footer">
+			<center>
+				<font size=“3”>
+					<a href="tokutei.html">特商法に基づく記載</a> / Copyright(C) 2021  All rights reserved.
+				</font>
+			</center>
+		</div>
+	</body>
+	<!--キャッシュをクリアするためのタグ!N氏-------------------------------------------------------------------------------------- -->
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script><!--2021ver-->
+	<script src="js/common.js"></script>
+	<!--キャッシュをクリアするためのタグ!N氏--------------------------------------------------------------------------------------- -->
+	<!--キャッシュをクリアするためにjs/common.jsにsrcの中の”値”の後ろに?gettimeでランダムな数字を自動で入れるので、キャッシュがクリアされる。
+		　　　　「？ランダムな数字」は「値」に影響を与えない。　imgなどの画像、css、iframeも更新される。-------------------- -->
+	<!-- スムーズスクロール部分の記述 ------------------------------------------------------------------------------------- -->
+	<script>
+		$(function(){
+			// #で始まるアンカーをクリックした場合に処理
+			$('a[href^="#"]').click(function() {
+				// スクロールの速度
+				var speed = 400; // ミリ秒
+				// アンカーの値取得
+				var href= $(this).attr("href");
+				// 移動先を取得
+				var target = $(href == "#" || href == "" ? 'html' : href);
+				// 移動先を数値で取得
+				var position = target.offset().top;
+				// スムーススクロール
+				$('body,html').animate({scrollTop:position}, speed, 'swing');
+				return false;
+			});
+		});
+	</script>
+	<!-- スムーズスクロール部分の記述 ------------------------------------------------------------------------------------- -->
+	<!--ボタンの点滅-------------------------------------------------------------------------------------- -->
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script><!--2021ver-->
+	<script type="text/javascript">
+		$(function(){
+			setInterval(function(){
+				$('.blink').fadeOut(1200, function(){$(this).fadeIn(200)});
+			}, 1400);
+		});
+	</script>
+	<!--ボタンの点滅-------------------------------------------------------------------------------------- -->
+	<!--AOS-------------------------------------------------------------------------------------- -->
+	<script type="text/javascript" src="js/aos/aos.js"></script>
+	<script>
+		(function(e,t,n){
+			var a=t.getElementsByTagName(n)[0],c=t.createElement(n);
+			c.async=!0,c.src="http://tk-drive-info.com/tm/ktm.js?lid=29910&t="+(new Date).getTime(),
+			a.parentNode.insertBefore(c,a)
+		})(window,document,"script");
+	</script>
+
+	<script type="text/javascript">
+		AOS.init();
+		$(function(){
+			$('.btn,.yn_btn').mouseover(function(){
+				$('#overSound').get(0).play() ;
+			});
+		});
+	</script>
+	<!--AOS-------------------------------------------------------------------------------------- -->
+</HTML>
