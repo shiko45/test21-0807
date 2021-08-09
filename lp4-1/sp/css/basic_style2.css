@@ -1,0 +1,544 @@
+@charset "utf-8";
+
+/*
+Theme Name: SUBHAND
+Author: SUBHAND.LLC
+Author URL: http://www.subhand.net/
+*/
+
+
+/* common
+---------------------------------------------*/
+* {margin:0;padding:0;}
+
+a:link,a:visited {
+	color: #2236cf;
+	text-decoration:underline;
+}
+a:hover,a:active {
+	color: #d90909;
+	text-decoration:underline;
+}
+
+.impact   {font-size:20pt; font-weight:bold;}
+.impact2  {color:red;}
+.impact3  {background:yellow; color:#000;}
+#impact4  {underline;}
+.impact5  {background:#173B50; padding:2px 5px; color:#fff;}
+.impact6  {background:#f4f4f4; padding:3px; line-height:1.1;}
+.impact7  {background: #B60000; padding:2px 5px; color:#fff;}
+.style2   {color: #FF0000}
+.style3   {color: #333333}
+.style4   {color: #000000}
+
+
+img{ border: none;}
+
+
+
+
+/* layout
+---------------------------------------------*/
+
+/*TopIntro-Start*/
+body {
+  background:#ffffff;
+  text-align:center;
+  font-size:14px;
+  font-family: "MS UI Gothic", Verdana, Times New Roman;
+}
+#intro{
+	width:800px;
+	margin:0px auto;
+}
+.wrap {
+	background:url(../images/bg_02.png);
+    background-repeat:repeat-y;
+	margin:0px auto;
+	width:918px;
+	
+}
+#container {
+	background-color:#FFFFFF;
+	width:800px;
+	margin: 0px auto;
+   line-height: 180%;
+	text-align: left;
+}/*TopIntro-End*/
+
+
+
+
+/* 
+------------------------------------------------------*/
+#copyright{
+	text-align:center;
+	padding:15px 0px;
+}
+#container p{
+	clear:both;
+	padding:0px 35px;
+	line-height:1.5;
+}
+div.clear{
+	clear: both;
+	margin: 0 0 10px 0;
+}
+
+
+
+th, td  {
+font-size:14px;
+}
+
+/* Tokuten 
+------------------------------------------------------*/
+#tokuten p{
+	clear:none;
+	padding:0px;
+	line-height:1.3;
+	font-size:14px;
+}
+
+
+/* User's Voice_Underline
+------------------------------------------------------*/
+#uservoice_under p{
+	clear:none;
+	padding:0px;
+	line-height:1.3;
+	font-size:14px;
+	border-bottom:1px #CCCCCC dashed;
+}
+
+
+
+/* User's Voice
+------------------------------------------------------*/
+#uservoice p{
+	clear:none;
+	padding:0px;
+	line-height:1.3;
+	font-size:14px;
+}
+
+
+/* Mawarikomi_editmode
+------------------------------------------------------*/
+#mawarikomi_edit p{
+	clear:none;
+	padding:0px;
+	line-height:1.3;
+	font-size:14px;
+}
+
+/* Mawarikomi_previewmode
+------------------------------------------------------*/
+#mawarikomi_prv p{
+	clear:none;
+	padding:0px 35px;
+	line-height:1.3;
+	font-size:14px;
+}
+
+/* 
+------------------------------------------------------*/
+/*TopIntro-BgStyleStart*/
+.topintro {
+   padding:20px 20px 0px 20px ;
+   text-align:left;
+   margin:0px auto;
+   line-height:1.2;
+   width:680px; 
+   height:px;
+   font-size:30px;
+   font-weight:bold;
+}/*TopIntro-BgStyleEnd*/
+
+
+.topintro_onlytext {
+	text-align:left;
+	margin:0px auto;
+	line-height:1.1;
+	width:680px; 
+}
+
+
+
+.topintro_sample{
+	padding:15px 10px;
+	font-size:14px;
+}
+
+
+#topintro_sample p{
+	padding:0px;
+	line-height:1.1;
+	font-size:14px;
+}
+ 
+ 
+ 
+/* frame_border
+------------------------------------------------------*/
+#frame_border{
+	border:1px #CCCCCC dotted;
+} 
+
+
+/* SubCatch [Text Type]
+------------------------------------------------------*/
+.sch001_text{
+	margin: 20px auto;
+	padding:0px;
+	font-weight:bold;
+	text-align:center;
+	line-height:1.1;
+}
+#sch001_text p{
+	padding:0px;
+	line-height:1.1;
+}
+
+
+
+/* SubCatch [Image Type]
+------------------------------------------------------*/
+.sch001_img{
+	text-align:center;
+	margin:20px auto;
+}
+
+
+
+
+/* SubCatch [Bar Type]
+------------------------------------------------------*/
+.sch001_barBg_1{
+	margin: 10px auto;
+	padding:10px 10px 10px 20px;
+	font-weight:bold;
+	line-height:1.1;
+}
+.sch001_barBg_2{
+	margin: 20px auto;
+	padding:50px 20px 50px 20px;
+	font-weight:bold;
+	line-height:1.1;
+}
+#sch001_bar p{
+	padding:0px;
+	line-height:1.1;
+}
+
+
+
+/* Price
+------------------------------------------------------*/
+#price p{
+	padding:0px;
+	line-height:1.2;
+	font-size:14px;
+}
+
+
+/* Subcatch Bar
+------------------------------------------------------*/
+#sbc_bar p{
+	padding:0px;
+	line-height:1.2;
+	font-size:14px;
+}
+
+
+
+
+/* CheckList 
+------------------------------------------------------*/
+.checklist_text{
+	width:550px;
+	margin: 0px auto 10px;
+	padding:0px;
+	font-size:14px;
+}
+#checklist_text p{	
+	clear:none;
+	padding:0px;
+	line-height:1.3;
+	font-size:14px;
+}
+
+
+
+/* sign
+------------------------------------------------------*/
+.sign001_text{
+	text-align:right;
+	margin:0px auto;
+	line-height:1.3;
+	width:650px; 
+	padding:0px 30px 0px 0px;
+}
+.sign001_img{
+	width:600px; 
+	margin:5px auto;
+	text-align:right;
+	padding:0px 10px;
+}
+
+
+
+
+/* 
+------------------------------------------------------*/
+.ImgCenter{
+	text-align:center;
+	margin:100px auto;
+}
+.ImgCenter01{
+	text-align:center;
+	margin:50px auto;
+}
+.ImgCenter02{
+	text-align:center;
+	margin:30px auto 50px;
+}
+
+
+
+
+/* Tokutei Table
+------------------------------------------------------*/
+.tb01{
+	width:600px;
+	margin:30px auto 30px;
+	border-top:1px solid #ccc;
+	border-left:1px solid #ccc;
+}
+.tb01 .title{
+	border-bottom:1px solid #ccc;
+	border-right:1px solid #ccc;
+	padding:6px;
+	background-color:#e4e4e4;
+	width:35%;
+}
+.tb01 td{
+	border-bottom:1px solid #ccc;
+	border-right:1px solid #ccc;
+	padding:6px;
+	text-align:left;
+	background-color:#FFFFFF;
+}
+
+
+
+
+/* 
+------------------------------------------------------*/
+#image_FullWidth p{
+	padding:0px;
+}
+
+
+
+/* 
+------------------------------------------------------*/
+.imgR{
+	float:right;
+	margin:0px 0px 10px 10px;
+}
+
+
+
+
+/* 
+------------------------------------------------------*/
+.nameRight{
+	text-align:right;
+	padding:0px 60px;
+}
+
+
+
+/* 
+------------------------------------------------------*/
+.AutodateRight{
+	text-align:right;
+	padding:0px 0px;
+}
+
+
+
+
+/* 
+------------------------------------------------------*/
+ul.checkbox{
+	text-align:left;
+	padding:10px 20px;
+}
+ul.checkbox li{
+	list-style: none;
+	line-height:1.1;
+	text-align:left;
+	margin:3px 0;
+	padding:4px 0px 4px 30px;
+}
+ul.checkbox li.title {
+	
+}
+ul.checkbox li.txt{
+	margin-bottom:15px;
+}
+
+
+
+/* 
+------------------------------------------------------*/
+.inbox{
+	width:500px;
+	margin:0px auto 50px;
+	padding:20px 30px;
+	text-align:left;
+	background:#F5F5F5;
+	border:2px solid #e4e4e4;
+	color:#333;
+	font-size:12px;
+}
+
+
+/* 
+------------------------------------------------------*/
+.list{
+	text-align: left;
+	display:block;
+}
+.list dt{
+	background:url(../images/icon.png) left 6px no-repeat;
+	line-height:1.1;
+	padding-left:22px;
+	margin-bottom:10px;
+	font-weight:bold;
+}
+.list dd{
+	margin-bottom:30px;
+	padding-left:22px;
+}
+.list01{
+	text-align: left;
+	display:block;
+	width:500px;
+	margin:20px auto 60px;
+	padding:20px;
+	border:6px solid #ccc;
+}
+.list01 dt{
+	background:url(../images/icon01.gif) left 2px no-repeat;
+	line-height:1.1;
+	font-size:16px;
+	padding-left:30px;
+	margin-bottom:10px;
+	font-weight:bold;
+	border-bottom:2px dotted #ccc;
+}
+.list01 dd{
+	margin-bottom:30px;
+	padding-left:30px;
+	font-size:12px;
+}
+
+
+
+/* faq
+---------------------------------------------*/
+#faq{
+	margin: 10px auto 0px;
+	padding:10px;
+	text-align:left;
+	font-size:14px;
+	line-height:1.1;
+}
+#faq p{
+	padding:0px;
+	line-height:1.1;
+	font-size:14px;
+}
+
+
+
+/* InFrame
+---------------------------------------------------------- */
+.inf01_dottit {
+	font-size: larger;
+	font-weight: bold;
+	border:1px dotted #666666;
+	background:#CCCCCC url(../images/inf_org.gif) repeat ;
+	padding:10px 20px;
+	text-align:left;
+	margin:0px 65px 10px;
+}
+
+
+
+/*  hover  
+---------------------------------------------------------- */
+#dropin td{
+	padding:2px;
+}
+.popup_box{
+	width:300px;
+	padding:5px;
+}
+#hover_btn{
+	background:url(../images/hover01_btn.jpg) center top;
+	cursor:pointer;
+	text-indent:-99999px;
+	overflow:hidden;
+	border:none;
+	width:327px;
+	height:52px;
+}
+
+
+
+/*  Button-Custom
+---------------------------------------------------------- */
+#BtnStyle_ctm_one a{
+	color:#fff;
+}
+#BtnStyle_ctm_one a:hover{
+	color:#FFD640;
+}
+
+
+
+
+#BtnStyle_ctm2_two a{
+	color:#000;
+}
+#BtnStyle_ctm2_two a:hover{
+	color:#1C5DCE;
+}
+
+
+
+
+/*  ul  
+---------------------------------------------------------- */
+ol,
+ul{
+	list-style-position: inside;
+	padding-left:10px;
+}
+ol li,
+ul li{
+	text-align:left;
+}
+
+#tool{
+	background:url(../images/back.png);
+    background-repeat:repeat-y;
+}
+#toolmozi{
+	width:500px;
+    margin-left:160px;
+}
