@@ -1,5 +1,8 @@
 # test21-0807
 
+【0913修正依頼・文字】
+https://shiko45.github.io/test21-0807/lp5-1/
+
 【提出・確認用】
 
 https://shiko45.github.io/test21-0807/lp1-1/
