@@ -1,0 +1,169 @@
+@charset "utf-8";
+
+/*
+Theme Name: SUBHAND
+Author: SUBHAND.LLC
+Author URL: http://www.subhand.net/
+*/
+
+
+/* common
+---------------------------------------------*/
+* {margin:0;padding:0;}
+
+a:link,a:visited {
+	color: #000000;
+	text-decoration:none;
+}
+a:hover,a:active {
+	color: #d90909;
+	text-decoration:underline;
+}
+
+.impact   {font-size:20pt; font-weight:bold;}
+.impact2  {color:red;}
+.impact3  {background:yellow; color:#000;}
+#impact4  {underline;}
+.impact5  {background:#173B50; padding:2px 5px; color:#fff;}
+.impact6  {background:#f4f4f4; padding:3px; line-height:1.1;}
+.impact7  {background: #B60000; padding:2px 5px; color:#fff;}
+.style2   {color: #FF0000}
+.style3   {color: #333333}
+.style4   {color: #000000}
+
+
+img{ border: none;}
+
+
+
+
+/* layout
+---------------------------------------------*/
+
+/*TopIntro-Start*/
+body {
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	min-width: 1100px;
+
+	background-image: url(../images/bg.png);
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-position: top center;
+
+
+	-webkit-text-size-adjust:none;
+	/* アンドロイドの文字崩れを防ぐ　PCの見た目と同じ文字サイズになる
+	　　アンドロイドの自動文字サイズ調整をオフにするコマンド
+	---*/
+
+	text-align:center;
+	font-size:35px;
+	font-family: 'Hiragino Kaku Gothic Pro', 'meiryo', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', sans-serif;
+	color: #000;
+}
+
+/* 背景画像を固定するとき */
+/* #任意のid { background: url("../images/背景画像の名前") no-repeat top center; height: 内容画像の高さの合計; background-attachment: fixed;} */
+/* index.htmlのhead1~4を<div id="任意のid"></div>で囲む */
+
+/* SP用 背景固定する要素の共通スタイル */
+.cd-fixed-bg {
+	position: relative;
+	min-height: 100%;
+	/* background-size: cover; */
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-position: center top;
+	z-index: 2;
+}
+
+#head1 { background: url("../images/header_01-1.png") no-repeat top center; height: 388px; }
+#head2 { background: url("../images/header_02.png") no-repeat top center; height: 269px; }
+#head3 { background: url("../images/header_03.png") no-repeat top center; height: 442px; }
+
+#head4 { background: url("../images/header_04.png") no-repeat top center; height: 498px; }
+#head5 { background: url("../images/header_05.png") no-repeat top center; height: 454px; }
+#head6 { background: url("../images/header_06-1.png") no-repeat top center; height: 506px; }
+#head7 { background: url("../images/header_07.png") no-repeat top center; height: 578px; }
+
+#bg-1 { background: url("../images/bg/bg_1.jpg");}
+
+#head8 { background: url("../images/header_08.png") no-repeat top center; height: 561px; }
+#head9 { background: url("../images/header_09.png") no-repeat top center; height: 504px; }
+#head10 { background: url("../images/header_10.png") no-repeat top center; height: 400px; }
+#head11 { background: url("../images/header_11.png") no-repeat top center; height: 390px; }
+#head12 { background: url("../images/header_12.png") no-repeat top center; height: 316px; }
+
+#bg-2 { background: url("../images/bg/2_AdobeStock_308685971-1100.jpg");}
+
+#head13 { background: url("../images/header_13-1.png") no-repeat top center; height: 229px; }
+#head14 { background: url("../images/header_14.png") no-repeat top center; height: 710px; }
+#head15 { background: url("../images/header_15.png") no-repeat top center; height: 730px; }
+#head16 { background: url("../images/header_16.png") no-repeat top center; height: 660px; }
+#head17 { background: url("../images/header_17.png") no-repeat top center; height: 336px; }
+
+#bg-3 { background: url("../images/bg/3-pixabay_bokeh-1673016_1920-1100.jpg");}
+
+#head18 { background: url("../images/header_18.png") no-repeat top center; height: 91px; }
+#head19 { background: url("../images/header_19.png") no-repeat top center; height: 529px; }
+#head20 { background: url("../images/header_20.png") no-repeat top center; height: 164px; }
+#head21 { background: url("../images/header_21.png") no-repeat top center; height: 597px; }
+
+
+#head21 { background: url("../images/header_21.png") no-repeat top center; height: 597px; }
+
+
+
+
+/* 右に余白ができるときはheaderも含めてwrap0で囲う
+overflow hiddenは　はみ出した部分を表示しない
+
+#wrap0 {overflow: hidden;}
+
+---*/
+
+
+
+#wrap {
+
+	background-image: url("../images/bgg.png");
+	background-repeat: repeat-y;
+	background-position: center top;
+	background-position:50% 0%;
+}
+
+#container {
+
+	text-align:left;
+	width:1000px;
+	margin:0 auto;
+
+
+}
+
+#text {
+
+	text-align:left;
+	width:850px;
+	margin:0 auto;
+
+
+}
+
+#footer{
+
+
+	font-size: 15px;
+}
+
+
+/*AOS---*/
+
+#mi01{
+	position: relative;
+	top: 120px;;
+	left: -20px;
+}
